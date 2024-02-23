@@ -1,7 +1,7 @@
 # Projeto de Automação para gerar lead
 
 
-Olá!!! Fiz este projeto pensando em uma automação de site, utilizando Python com Selenium para interagir com um site de veículos. Ele executa as seguintes tarefas:
+Olá!!! Fiz este projeto pensando em uma automação de site, utilizando Python com Selenium para interagir com o site Barigui. Ele executa as seguintes tarefas:
 
 - Abre o site do fornecedor de veículos.
 - Pesquisa um modelo específico de veículo na barra de pesquisa.
