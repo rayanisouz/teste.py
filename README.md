@@ -1,4 +1,4 @@
-# Projeto de Automação de Geração de Leads em Site de Veículos
+# Projeto de Automação para gerar lead
 
 
 Olá!!! Fiz este projeto pensando em uma automação utilizando Python com Selenium para interagir com um site de veículos. Ele executa as seguintes tarefas:
